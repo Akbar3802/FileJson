@@ -1,7 +1,11 @@
 {
-
-"Nama"    : "Akbar Nursyabanni A",
-"NIM"     : 2018042,
-"Jurusan" : "T. Informatika"
-
+  "Nama": [
+    { "Akbar N.A" }
+  ],
+  "NIM": [
+    { "2018042" }
+  ],
+  "Jurusan": {
+    "T. Informatika"
+  }
 }
